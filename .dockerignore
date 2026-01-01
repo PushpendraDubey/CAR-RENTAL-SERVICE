@@ -1,0 +1,2 @@
+# Ignore Gradle Wrapper JAR
+!gradle/wrapper/gradle-wrapper.jar
