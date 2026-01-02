@@ -36,3 +36,7 @@ H2 in-memory database (auto-populated with sample data)
 - JDBC URL: `jdbc:h2:mem:carrentaldb`
 - Username: `sa`
 - Password: (empty)
+
+
+## Kubernetes
+Next Part will be deploying the code to the kubernetes cluster
